@@ -1,1 +1,5 @@
-# music generation hackathon
+## Musichack Belgium 2018
+
+https://music-hack.org/
+
+
